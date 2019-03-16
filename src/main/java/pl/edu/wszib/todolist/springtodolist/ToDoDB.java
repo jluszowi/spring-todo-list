@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.todolist.springtodolist;
 
 import pl.edu.wszib.todolist.springtodolist.model.Status;
@@ -64,3 +65,4 @@ public class ToDoDB {
     }
 
 }
+*/

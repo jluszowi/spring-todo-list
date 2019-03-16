@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.todolist.springtodolist;
 
 import pl.edu.wszib.todolist.springtodolist.dto.TodoDTO;
@@ -37,3 +38,4 @@ public class ToDoConverter {
     }
 
 }
+*/
